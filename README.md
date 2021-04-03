@@ -62,7 +62,7 @@
 | Tiktok Stalk | api/tiktod/stalk/?username=MASUKIN_URL&apikey=MASUKIN_APIKEY |
 | Random Quotes | api/randomquote?apikey=MASUKIN_APIKEY |
 | Random Quotes Islami | api/randomquote/muslim?apikey=MASUKIN_APIKEY |
-| Info NPM | api/infonpm?query=rohid-api&hostname=zhirrr&apikey=MASUKAN_APIKEY |
+| Info NPM | api/infonpm?query=rohid-api&hostname=rohid&apikey=MASUKAN_APIKEY |
 | Info Gempa | api/infogempa?apikey=MASUKAN_APIKEY |
 | Short Link | api/short/tiny?url=google.com&apikey=MASUKAN_APIKEY |
 | Kisah Nabi | api/kisahnabi?nabi=muhammad&apikey=MASUKAN_APIKEY |
