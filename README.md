@@ -56,13 +56,13 @@
 | Film Drakor | api/drakorasia?search=tale&apikey=MASUKAN_APIKEY |
 | Fake Data | api/fakedata?country=en&apikey=MASUKAN_APIKEY |
 | Hilih Generator | api/hilih?kata=aku mah ganteng banget&apikey=MASUKAN_APIKEY |
-| Nulis | api/nulis?text=zahirganteng&apikey=MASUKIN_APIKEY |
+| Nulis | api/nulis?text=rohidganteng&apikey=MASUKIN_APIKEY |
 | Facebook Downloader | api/fbdown/?url=MASUKIN_URL&apikey=MASUKIN_APIKEY |
 | Tiktok Downloader | api/tiktod/?url=MASUKIN_URL&apikey=MASUKIN_APIKEY |
 | Tiktok Stalk | api/tiktod/stalk/?username=MASUKIN_URL&apikey=MASUKIN_APIKEY |
 | Random Quotes | api/randomquote?apikey=MASUKIN_APIKEY |
 | Random Quotes Islami | api/randomquote/muslim?apikey=MASUKIN_APIKEY |
-| Info NPM | api/infonpm?query=zhirrr-api&hostname=zhirrr&apikey=MASUKAN_APIKEY |
+| Info NPM | api/infonpm?query=rohid-api&hostname=zhirrr&apikey=MASUKAN_APIKEY |
 | Info Gempa | api/infogempa?apikey=MASUKAN_APIKEY |
 | Short Link | api/short/tiny?url=google.com&apikey=MASUKAN_APIKEY |
 | Kisah Nabi | api/kisahnabi?nabi=muhammad&apikey=MASUKAN_APIKEY |
